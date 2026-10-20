@@ -1,0 +1,6 @@
+{
+  "name": "O/L Guru",
+  "description": "Sri Lankan student learning portal with grade selection, interactive Q&A master hub, past papers, notes and exam tools",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
